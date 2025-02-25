@@ -1,43 +1,60 @@
-# alternative-front-ends
-Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
+# alternative-front-ends-abridged
+_All credit to [@mendel5's original alternative-front-ends](https://github.com/mendel5/alternative-front-ends)._
 
-## Call to Action
-- Do you know any other **free/open-source** projects that are not included in the overview yet? (front ends, alternatives to websites, apps, etc.)
-- Just create an [issue](https://github.com/mendel5/alternative-front-ends/issues) and let me know. I'm always looking for new free/open-source projects to add.
+**WIP (work-in-progress)**
+
+Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.).
+
+I have found [@mendel5](https://github.com/mendel5)'s *alternative-front-ends* repo to be incredibly useful both as a source of inspiration for what i may want to self-host on my home server and as a resource for how to attain a **faster** and **more secure** way of navigating the internet. However i have found that many of the projects listed are either no longer maintained, no longer functional, or far below my standard of trust, given my general code literacy and ability to audit the code. This will be primarily a distillation of that original list, and if i come across new ones i choose to incorporate they will obviously be included. 
+
+My choice of organization might be a bit different as well. 
 
 ## Contents
+### Social Media
 - [YouTube](#youtube)
 - [YouTube Music](#youtube-music)
 - [Twitter](#twitter)
 - [Reddit](#reddit)
 - [TikTok](#tiktok)
-- [Imgur](#imgur)
-- [Spotify](#spotify)
-- [Apple Music](#apple-music)
-- [Bandcamp](#bandcamp)
-- [Twitch](#twitch)
-- [Discord](#discord)
-- [Google Search](#google-search)
-- [Google Translate](#google-translate)
 - [Facebook](#facebook)
 - [Facebook Messenger](#facebook-messenger)
 - [Mastodon](#mastodon)
+### Services
+#### De-Google
+- [Google Search](#google-search)
+- [Google Translate](#google-translate)
+#### Hosting
+- [Imgur](#imgur)
+#### Streaming
+- [Twitch](#twitch)
+#### Chat
+- [Discord](#discord)
+- [Telegram](#telegram)
+#### Music
+- [Spotify](#spotify)
+- [Apple Music](#apple-music)
+- [Bandcamp](#bandcamp)
+- [Shazam](#shazam)
 - [Medium](#medium)
+#### Misc
 - [IMDb](#imdb)
 - [Quora](#quora)
 - [Reuters](#reuters)
-- [Apple AirPlay](#apple-airplay)
-- [Shazam](#shazam)
 - [Hacker News](#hacker-news)
-- [Telegram](#telegram)
+#### Compatibility
+- [Apple AirPlay](#apple-airplay)
+
 - [Other services](#other-services)
 - [Redirection](#redirection)
 - [Related projects](#related-projects)
 - [About this repository](#about-this-repository)
 
+
+
 ## Overview
 
-### YouTube
+### Social Media
+#### Youtube
 
 - [Invidious](https://github.com/iv-org/invidious): Invidious is an alternative front-end to YouTube - Lightweight, no ads, no tracking, no JavaScript required
   - Home page: https://invidious.io
