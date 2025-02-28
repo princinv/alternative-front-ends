@@ -44,6 +44,7 @@ My choice of organization might be a bit different as well.
 #### Compatibility
 - [Apple AirPlay](#apple-airplay)
 
+
 - [Other services](#other-services)
 - [Redirection](#redirection)
 - [Related projects](#related-projects)
@@ -56,7 +57,7 @@ My choice of organization might be a bit different as well.
 ### Social Media
 #### Youtube
 
-- [Invidious](https://github.com/iv-org/invidious): Invidious is an alternative front-end to YouTube - Lightweight, no ads, no tracking, no JavaScript required
+- :fire: [Invidious](https://github.com/iv-org/invidious): Invidious is an alternative front-end to YouTube - Lightweight, no ads, no tracking, no JavaScript required
   - Home page: https://invidious.io
   - Invidious instances: https://docs.invidious.io/instances/
   - Invidious instances API: https://api.invidious.io
@@ -73,7 +74,7 @@ My choice of organization might be a bit different as well.
 
 - [YouTube.js](https://github.com/LuanRT/YouTube.js): Full-featured wrapper around the Innertube API, which is what YouTube itself uses
 
-- [FreeTube](https://github.com/FreeTubeApp/FreeTube): Open source YouTube desktop player for privacy on Windows, Mac and Linux
+-  :fire: [FreeTube](https://github.com/FreeTubeApp/FreeTube): Open source YouTube desktop player for privacy on Windows, Mac and Linux
   - Official Instance: https://freetubeapp.io/
 
 - [Youtube-viewer](https://github.com/trizen/youtube-viewer): Lightweight YouTube client for Linux
@@ -104,15 +105,15 @@ My choice of organization might be a bit different as well.
 
 - [uYouPlus](https://github.com/qnblackcat/uYouPlus): uYouPlus (uYou+) is an alternative YouTube app for Apple's iOS and iPadOS
 
-- [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext): SmartTubeNext is an advanced YouTube app for Android TVs and TV boxes, free and open source. It is not a live TV client and does not support "YouTube TV"
+-  :fire: [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext): SmartTubeNext is an advanced YouTube app for Android TVs and TV boxes, free and open source. It is not a live TV client and does not support "YouTube TV"
 
 - [TubeSync](https://github.com/meeb/tubesync): TubeSync is a PVR (personal video recorder) for YouTube. It syncs YouTube channels and playlists to a locally hosted media server
 
-- [TubeArchivist](https://github.com/tubearchivist/tubearchivist): A self hosted YouTube media server
+-  :fire: [TubeArchivist](https://github.com/tubearchivist/tubearchivist): A self hosted YouTube media server
 
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube): Terminal based YouTube player and downloader
 
-- [yattee](https://github.com/yattee/yattee): Alternative YouTube frontend for iOS, tvOS and macOS built with Invidious and Piped, supports sponsorblock
+-  :fire: [yattee](https://github.com/yattee/yattee): Alternative YouTube frontend for iOS, tvOS and macOS built with Invidious and Piped, supports sponsorblock
 
 - [LibreTube](https://github.com/libre-tube/LibreTube): Android frontend for YouTube, based on Piped
 
@@ -126,7 +127,7 @@ My choice of organization might be a bit different as well.
 
 ### Twitter
 
-- [Nitter](https://github.com/zedeus/nitter): Alternative Twitter front-end - Lightweight, no ads, no tracking, no JavaScript required
+-  :fire: [Nitter](https://github.com/zedeus/nitter): Alternative Twitter front-end - Lightweight, no ads, no tracking, no JavaScript required
   - Official instance: [nitter.net](https://nitter.net)
   - Public instances: https://github.com/zedeus/nitter/wiki/Instances
   - Example: Troy Hunt on [Twitter](https://twitter.com/troyhunt) and [Nitter](https://nitter.net/troyhunt)
@@ -135,7 +136,7 @@ My choice of organization might be a bit different as well.
 
 ### Reddit
 
-- [Libreddit](https://github.com/libreddit/libreddit): Alternative front-end for Reddit. Themed around Reddit's new design - Lightweight, no JavaScript, no ads, no tracking
+-  :fire: [Libreddit](https://github.com/libreddit/libreddit): Alternative front-end for Reddit. Themed around Reddit's new design - Lightweight, no JavaScript, no ads, no tracking
   - Public instances: https://github.com/libreddit/libreddit-instances/blob/master/instances.md
 
 - [Eddrit](https://github.com/corenting/eddrit): Alternative front-end for Reddit, inspired by Nitter, built with Python & Starlette
@@ -153,21 +154,21 @@ My choice of organization might be a bit different as well.
 
 ### TikTok
 
-- [ProxiTok](https://github.com/pablouser1/ProxiTok): Open source alternative frontend for TikTok made with PHP
+-  :fire: [ProxiTok](https://github.com/pablouser1/ProxiTok): Open source alternative frontend for TikTok made with PHP
   - Official instance: https://proxitok.pabloferreiro.es/
 
 ### Imgur
 
-- [Rimgo](https://codeberg.org/video-prize-ranch/rimgo): Self-hosted frontend for Imgur ritten in Go
+-  :fire: [Rimgo](https://codeberg.org/video-prize-ranch/rimgo): Self-hosted frontend for Imgur ritten in Go
   - Public instances: https://codeberg.org/video-prize-ranch/rimgo#instances
 
 ### Spotify
 
-- [psst](https://github.com/jpochyla/psst): Fast and multi-platform Spotify client with native GUI
+- [psst](https://github.com/jpochyla/psst): Requires Spotify Premium Account - Fast and multi-platform Spotify client with native GUI
 
-- [spot](https://github.com/xou816/spot): Gtk/Rust native Spotify client for the GNOME desktop. Only works with premium accounts
+- [spot](https://github.com/xou816/spot): Requires Spotify Premium Account - Gtk/Rust native Spotify client for the GNOME desktop. Only works with premium accounts
 
-- [spotube](https://github.com/KRTirtho/spotube): A lightweight and free Spotify crossplatform-client which handles playback manually, streams music using Youtube & no Spotify premium account is needed
+- :fire: [spotube](https://github.com/KRTirtho/spotube): A lightweight and free Spotify crossplatform-client which handles playback manually, streams music using Youtube & no Spotify premium account is needed
 
 - [SpotX](https://github.com/amd64fox/SpotX): Modified Spotify Client for Windows (Windows Only) - Blocking ads and updates for the desktop version of Spotify, disabling podcasts and more
 
@@ -228,18 +229,18 @@ My choice of organization might be a bit different as well.
 
 ### Medium
 
-- [Scribe](https://sr.ht/~edwardloveall/Scribe): Alternative front-end to Medium.com
+- :fire: [Scribe](https://sr.ht/~edwardloveall/Scribe): Alternative front-end to Medium.com
   - Official website: https://scribe.rip
 
 ### IMDb
 
-- [libremdb](https://github.com/zyachel/libremdb): A FOSS alternative front-end to IMDb.
+- :fire: [libremdb](https://github.com/zyachel/libremdb): A FOSS alternative front-end to IMDb.
   - Official instance: https://libremdb.iket.me/
   - Public Instances: https://github.com/zyachel/libremdb#instances
 
 ### Quora
 
-- [Quetre](https://github.com/zyachel/quetre): A libre front-end for Quora
+- :fire: [Quetre](https://github.com/zyachel/quetre): A libre front-end for Quora
   - Official website: https://quetre.iket.me/
   - Public instances: https://github.com/zyachel/quetre#instances
 
