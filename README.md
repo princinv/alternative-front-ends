@@ -67,9 +67,6 @@ My choice of organization might be a bit different as well.
   - Public instances: https://github.com/TeamPiped/Piped/wiki/Instances
   - Installation guide for self-hosting: https://github.com/TeamPiped/Documentation/blob/main/content/docs/self-hosting/index.md
 
-- [Poketube](https://github.com/ashley0143/poketube): The privacy-friendly youtube front-end built with the InnerTube API
-  - Official instance: [https://poketube.fun](https://poketube.fun)
-
 - [CloudTube](https://git.sr.ht/~cadence/cloudtube): Alternative front-end for Invidious
   - Official instance: https://tube.cadence.moe
   - Installation guide for self-hosting: https://git.sr.ht/~cadence/tube-docs/tree/main/item/docs/cloudtube/Installing%20CloudTube.md
@@ -79,14 +76,9 @@ My choice of organization might be a bit different as well.
 - [FreeTube](https://github.com/FreeTubeApp/FreeTube): Open source YouTube desktop player for privacy on Windows, Mac and Linux
   - Official Instance: https://freetubeapp.io/
 
-- [Invuedious](https://github.com/bocchilorenzo/invuedious): An alternative frontend for invidious built with vue.js
-  - Official instance: https://bocchilorenzo.github.io/invuedious
-
 - [Youtube-viewer](https://github.com/trizen/youtube-viewer): Lightweight YouTube client for Linux
 
 - [pipe-viewer](https://github.com/trizen/pipe-viewer): A lightweight application (fork of straw-viewer) for searching and playing videos from YouTube.
-
-- [Invidious-viewer](https://github.com/git-bruh/invidious-viewer): Python application to watch YouTube videos through the Invidious API, in the terminal (requires MPV player and libmpv.so, provided by Linux distro)
 
 - [NewPipe](https://github.com/TeamNewPipe/NewPipe): A libre lightweight streaming front-end for Android
 
@@ -94,17 +86,11 @@ My choice of organization might be a bit different as well.
 
 - [OpenVideoDownloader aka jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui): A cross-platform GUI for youtube-dl made in Electron and node.js
 
-- [ytdl-gui](https://github.com/JaGoLi/ytdl-gui): A simple-to-use, cross-platform graphical interface for youtube-dl
-
-- [Alltube](https://github.com/Rudloff/alltube): Web GUI for youtube-dl
-
 - [Vividl](https://github.com/Bluegrams/Vividl): Modern Windows GUI for youtube-dl
 
 - [Tartube](https://github.com/axcore/tartube): A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
 
 - [ytmdl](https://github.com/deepjyoti30/ytmdl): A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, LastFM, Deezer, Gaana etc.
-
-- [Plumber](https://github.com/keshavbhatt/plumber): Local and remote video trimmer, can trim parts of video without downloading whole video, utilizes youtube-dl, allows conversion to GIFs
 
 - [ViewTube](https://github.com/ViewTube/viewtube-vue): An alternative front-end for YouTube, written in Vue.js, uses Plyr video player; supports SponsorBlock, multiple Invidious instances support, chapters
 
@@ -124,36 +110,15 @@ My choice of organization might be a bit different as well.
 
 - [TubeArchivist](https://github.com/tubearchivist/tubearchivist): A self hosted YouTube media server
 
-- [ytfzf](https://github.com/pystardust/ytfzf): A POSIX script that helps you find Youtube videos (without API) and opens/downloads them using mpv/youtube-dl
-
-- [ytcc](https://github.com/woefe/ytcc): Command line tool to keep track of your favorite playlists on YouTube and many other places. Can import youtube subscriptions from Google Takeout and provide them as an RSS feed for your favorite reader
-
-- [smtube](https://github.com/smplayer-dev/smtube): Stand-alone YouTube video player
-  - Website: https://www.smtube.org
-  - SMTube is part of SMPlayer
-  - SMPlayer website: https://www.smplayer.info
-  - SMPlayer repository: https://github.com/smplayer-dev/smplayer
-
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube): Terminal based YouTube player and downloader
-
-- [minitube](https://github.com/flaviotordini/minitube): Lightweight youtube client with a kid-friendly interface. Can make playlists from search keywords
 
 - [yattee](https://github.com/yattee/yattee): Alternative YouTube frontend for iOS, tvOS and macOS built with Invidious and Piped, supports sponsorblock
 
-- [ytcast](https://github.com/MarcoLucidi01/ytcast): Cast YouTube videos to your smart TV from the command line. This program does roughly the same thing as the "Play on TV" button that appears on the player bar when you visit youtube.com with Chrome or when you use the YouTube smartphone app
-
 - [LibreTube](https://github.com/libre-tube/LibreTube): Android frontend for YouTube, based on Piped
-
-- [BlackHole](https://github.com/Sangwan5688/BlackHole): Android music player app for YouTube Music and Spotify made with Flutter
-
-- [oleksis/youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui): Cross-platform front-end GUI of the popular youtube-dl written in wxPython
 
 ### YouTube Music
 
 - [ytmdesktop](https://github.com/ytmdesktop/ytmdesktop): Cross-platform (Windows, Mac, and Linux) desktop app for YouTube Music. Has a (proprietary?) remote control app for Android
-
-- [Beatbump](https://github.com/snuffyDev/Beatbump): An alternative frontend for YouTube Music created using Svelte/SvelteKit, powered by Cloudflare Workers
-  - Official instance: https://beatbump.ml/
 
 - [AudioTube](https://invent.kde.org/plasma-mobile/audiotube): Client for YouTube Music. Plasma-mobile project with an interface designed for Linux phones
 
@@ -166,68 +131,25 @@ My choice of organization might be a bit different as well.
   - Public instances: https://github.com/zedeus/nitter/wiki/Instances
   - Example: Troy Hunt on [Twitter](https://twitter.com/troyhunt) and [Nitter](https://nitter.net/troyhunt)
 
-- [Shitter](https://github.com/nuclearfog/Shitter): Android, alternative front-end for Twitter, built with Java
-
-- [Harpy](https://github.com/robertodoering/harpy): Android, alternative front-end for Twitter, built with Flutter/Dart
-
-- [Twidere X](https://github.com/TwidereProject/TwidereX-Android): Android, alternative front-end for Twitter, built mostly with Kotlin, in early stage
-
-- [Tweeterr](https://github.com/sherwyn11/Tweeterr): A tool to use Twitter from the command line on the fly
-
-- [Tweet-app](https://github.com/rhysd/tweet-app): Desktop Twitter client only for tweeting. Timeline never shows up
-
 - [Tweepy](https://github.com/tweepy/tweepy): Twitter for Python
-
-- [Fritter](https://github.com/jonjomckay/fritter): A free, open-source Twitter client for Android
 
 ### Reddit
 
-- [Teddit](https://codeberg.org/teddit/teddit): Alternative Reddit front-end focused on privacy - Lightweight, no ads, no JavaScript, unofficial API
-  - Official instance: https://teddit.net
-  - Public instances: https://github.com/teddit-net/teddit#instances
-  - [Github mirror repository](https://github.com/teddit-net/teddit)
-  - Example: /r/Privacy on [Reddit](https://www.reddit.com/r/privacy) and [Teddit](https://teddit.net/r/privacy)
-
 - [Libreddit](https://github.com/libreddit/libreddit): Alternative front-end for Reddit. Themed around Reddit's new design - Lightweight, no JavaScript, no ads, no tracking
   - Public instances: https://github.com/libreddit/libreddit-instances/blob/master/instances.md
-
-- [Xeddit](https://github.com/ErlingMK/Xeddit): A Xamarin.Forms app for Reddit
-  - Official instance: [xeddit.com](https://www.xeddit.com)
-  - Example: /r/Privacy on [Reddit](https://www.reddit.com/r/privacy) and [Xeddit](https://www.xeddit.com/r/privacy)
-
-- [RedditClient](https://github.com/grey-r/RedditSharp): Alternative front-end for Reddit, built with Angular
-
-- [Updoot](https://github.com/adityam49/Updoot): Android, alternative front-end for Reddit
 
 - [Eddrit](https://github.com/corenting/eddrit): Alternative front-end for Reddit, inspired by Nitter, built with Python & Starlette
 
 - [Top of Reddit](https://github.com/mgerb/top-of-reddit): Top Reddit posts every day
 
-- [Snew](https://github.com/snew/snew): Open-source client for Reddit forked from the Reddit source code
-
-- [Stealth](https://gitlab.com/cosmosapps/stealth): Account-free, privacy-oriented, and feature-rich Reddit client
-  - Available on [F-Droid](https://f-droid.org/en/packages/com.cosmos.unreddit)
-
 - [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit): Reddit client for Android
   - Available on [F-Droid](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit)
-
-- [Dawn](https://github.com/Tunous/Dawn): Open-source Reddit app
-  - Available on [F-Droid](https://f-droid.org/en/packages/me.thanel.dank)
-  - Forked from Dank: https://github.com/saket/Dank
-
-- [Slide](https://github.com/ccrama/Slide): Open source, ad free Reddit browser for Android
-  - Available on [F-Droid](https://f-droid.org/en/packages/me.ccrama.redditslide)
-
-- [junipf/reddit-frontend](https://github.com/junipf/reddit-frontend): A reddit front-end written in React
-  - Official instance: https://jpf-reddit.netlify.app
   
 - [kddit](https://git.kalli.st/kallist/kddit-spaghetti): uWSGI frontend for Reddit.com written in Python
   - Official instance: https://kddit.kalli.st
 
 - [Troddit](https://github.com/burhan-syed/troddit): A web client for Reddit
   - Official instance: https://www.troddit.com
-
-- [Roffline](https://github.com/Darkle/Roffline): A self-hosted offline Reddit server. It allows you to browse Reddit posts (including any media in the post) while offline. It is targeted at people that have intermittent internet
 
 ### TikTok
 
@@ -239,27 +161,9 @@ My choice of organization might be a bit different as well.
 - [Rimgo](https://codeberg.org/video-prize-ranch/rimgo): Self-hosted frontend for Imgur ritten in Go
   - Public instances: https://codeberg.org/video-prize-ranch/rimgo#instances
 
-- [Rimgu](https://codeberg.org/3np/rimgu): Self-hosted alternative frontend/ proxy for Imgur
-
-- [Imgin](https://git.voidnet.tech/kev/imgin): Minimal Imgur front end
-  - Official instance: https://imgin.voidnet.tech
-  - Example album on Imgur.com: https://imgur.com/a/GD6p5Fi
-  - Same album on Imgin: https://imgin.voidnet.tech/a/GD6p5Fi
-
-- [Omgur](https://github.com/geraldwuhoo/omgur): Omgur is a free and open-source alternative Imgur front-end focused on privacy. Inspired by the Invidious, Nitter, and Teddit projects.
-  - No JavaScript or ads
-  - All requests go through the Omgur backend, client never talks to Imgur
-  - Prevents Imgur from tracking your IP or JavaScript fingerprint
-  - Lightweight
-  - Self-hostable
-
-- [imgrs](https://github.com/geraldwuhoo/imgrs): Imgrs is a free and open-source alternative Imgur front-end focused on privacy. It's a Rust rewrite of a previous Imgur proxy project, Omgur.
-
 ### Spotify
 
 - [psst](https://github.com/jpochyla/psst): Fast and multi-platform Spotify client with native GUI
-
-- [Spotiqueue](https://github.com/toothbrush/Spotiqueue): Minimalistic queue-oriented macOS-native client for Spotify, with Guile Scheme scriptability
 
 - [spot](https://github.com/xou816/spot): Gtk/Rust native Spotify client for the GNOME desktop. Only works with premium accounts
 
@@ -267,17 +171,15 @@ My choice of organization might be a bit different as well.
 
 - [SpotX](https://github.com/amd64fox/SpotX): Modified Spotify Client for Windows (Windows Only) - Blocking ads and updates for the desktop version of Spotify, disabling podcasts and more
 
-- [kotify](https://github.com/dzirbel/kotify): Requires Spotify Account - Multiplatform desktop client for Spotify focused on library organization for power users. Relies on official Spotify client for playback
-
 - [librespot](https://github.com/librespot-org/librespot): Requires Spotify Premium Account - librespot is an open source client library for Spotify. It enables applications to use Spotify's service to control and play music via various backends, and to act as a Spotify Connect receiver. It is an alternative to the official and now deprecated closed-source libspotify. Additionally, it will provide extra features which are not available in the official library
 
 - [spotifyd](https://github.com/Spotifyd/spotifyd): unix daemon, using librespot.
 
-### Apple Music
+### Apple Music [NOT MAINTAINED]
 
 - [Cider](https://github.com/ciderapp/Cider): Cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind
 
-### Bandcamp
+### Bandcamp [NOT MAINTAINED]
 
 - [Tent](https://codeberg.org/sun/Tent): A simple alternative front-end for Bandcamp that does not require JavaScript and proxies all requests
 
@@ -289,11 +191,10 @@ My choice of organization might be a bit different as well.
 
 - [Xtra](https://github.com/crackededed/Xtra): Twitch player and browser for Android
 
-- [ElectronPlayer](https://github.com/oscartbeaumont/ElectronPlayer): Electron Based Web Video Services Player. Supports Netflix, Youtube, Twitch, Floatplane, Hulu and more
-
 ### Discord
 
 - [gtkcord4](https://github.com/diamondburned/gtkcord4): A lightweight Discord client written in Golang which uses GTK3 for the user interface
+
 - [openasar](https://github.com/GooseMod/OpenAsar): An open-source alternative of Discord desktop's app.asar
 
 ### Google Search
@@ -301,39 +202,17 @@ My choice of organization might be a bit different as well.
 - [Whoogle Search](https://github.com/benbusby/whoogle-search): A self-hosted, ad-free, privacy-respecting metasearch engine for Google
   - Public instances: https://github.com/benbusby/whoogle-search#public-instances
 
-- [Searx](https://github.com/searx/searx): Searx is a free privacy-respecting internet metasearch engine which aggregates results from more than 70 search services. Users are neither tracked nor profiled. Additionally, searx can be used over Tor for online anonymity
-  - Public instances: https://searx.space
-
 - [SearXNG](https://github.com/searxng/searxng): SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled (SearXNG is a fork of searx)
 
-- [LibreX](https://github.com/hnhx/librex): Privacy respecting free meta search engine (free as in freedom)
-  - Small and simple meta search engine, fetches and anonymizes results from Google only, has API support, allows redirects to Invidious/ Bibliogram/ Nitter/ Libreddit
 
 ### Google Translate
-
-- [Lingva Translate](https://github.com/TheDavidDelta/lingva-translate): Alternative front-end for Google Translate, serving as a free and open-source translator with over a hundred languages available
-  - Official instance: [lingva.ml](https://lingva.ml)
-  - Public instances: https://github.com/TheDavidDelta/lingva-translate#instances
-
-- [SimplyTranslate](https://codeberg.org/SimpleWeb/SimplyTranslate-Web): Provide fast and private translations to the user without wasting much overhead for extensive styling or JavaScript. Supports Google Translate, DeepL, ICIBA and LibreTranslate.
-  - Home page and public instances: https://simple-web.org/projects/simplytranslate.html
-
-- [SimplyTranslate Mobile](https://github.com/ManeraKai/simplytranslate_mobile): Unofficial Android client of SimplyTranslate.
-  - Available on [F-Droid](https://f-droid.org/en/packages/com.simplytranslate_mobile)
-
-- [InstaLate](https://gitlab.com/concept1tech/instalate): Distraction-free translation for Android, to be used directly from within any app. Supports Beolingus, DeepL, Dict.cc, GNU CIDE, Heinzelnisse, LibreTranslate, Linguee, WikDict and Wiktionary.
-  - Available on [F-Droid](https://f-droid.org/en/packages/com.concept1tech.instalate)
 
 - [DeepL Android](https://github.com/sakusaku3939/DeepLAndroid): Unofficial Android client for DeepL
   - Available on [F-Droid](https://f-droid.org/en/packages/com.example.deeplviewer)
 
-- [Crow Translate](https://github.com/crow-translate/crow-translate): Simple and lightweight cross-platform translator that allows translation using LibreTranslate, Lingva, Google, Bing, and Yandex, as well as text-to-speech using Google
-
 ### Facebook
 
 - [SlimSocial](https://github.com/rignaneseleo/SlimSocial-for-Facebook): Android, alternative front-end for Facebook, built with Java
-
-- [Frost](https://github.com/AllanWang/Frost-for-Facebook): An extensive and functional third party app for Facebook (Android app)
 
 ### Facebook Messenger
 
@@ -343,25 +222,14 @@ My choice of organization might be a bit different as well.
 
 - [Sengi](https://github.com/NicolasConstant/sengi): cross-platform multi-account Mastodon & Pleroma desktop client
 
-- [TheDesk](https://github.com/cutls/TheDesk): cross-platform Mastodon & Misskey desktop client
-
-- [Tootle](https://gitlab.gnome.org/World/tootle): simple GTK-based Linux Mastodon client
-
 - [Tusky](https://github.com/tuskyapp/Tusky): lightweight Android Mastodon client
 
 - [Fedilab](https://codeberg.org/tom79/Fedilab): multi-account Android Mastodon client
-
-- [Pinafore](https://github.com/nolanlawson/pinafore): Alternative web client for Mastodon, focused on speed and simplicity **[Unmaintained](https://nolanlawson.com/2023/01/09/retiring-pinafore/)**
-
-- [Hyperspace](https://github.com/hyperspacedev/hyperspace): cross-platform Mastodon client for the fediverse written in TypeScript and React **[In maintenance mode](https://github.com/hyperspacedev/hyperspace/issues/232)** 
 
 ### Medium
 
 - [Scribe](https://sr.ht/~edwardloveall/Scribe): Alternative front-end to Medium.com
   - Official website: https://scribe.rip
-
-- [Libmedium](https://github.com/realaravinth/libmedium): Alternative front-end to Medium.com
-  - Official website: https://libmedium.batsense.net
 
 ### IMDb
 
@@ -394,35 +262,9 @@ My choice of organization might be a bit different as well.
 
 - [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS): Unofficial, FOSS-friendly fork of the original Telegram client for Android
 
-### Hacker News
-
-- [HN-search](https://github.com/algolia/hn-search): Algolia Hacker News search
-  - Example: [Highest rated submissions of the past 24 hours](https://hn.algolia.com/?sort=byPopularity&page=0&dateRange=last24h&type=all)
-
-- [HNTopLinks](https://github.com/eguller/hntoplinks): Top Links on Hacker News
-
-- [Hackerweb](https://github.com/cheeaun/hackerweb): A simply readable Hacker News web app
-  - Official instance: https://hackerweb.app
-  - About Hackerweb: https://hackerwebapp.com
-
-- [Hckrnws](https://github.com/rajatkulkarni95/hckrnws): A custom front-end for a better reading experience of HackerNews
-  - Official instance: https://www.hckrnws.com
-
-- [Hackers](https://github.com/weiran/Hackers): a native iOS app for Hacker News
-  - Available to download on the Apple AppStore: https://apps.apple.com/us/app/hackers-for-hacker-news/id603503901
-
 ### Other services
 
-- [Pastewin](https://github.com/beucismis/pastewin): Free alternative Pastebin front-end
-
-- [MediathekViewWeb](https://github.com/mediathekview/mediathekviewweb): Video content of German public-service television broadcasters (e.g. ARD, ZDF)
-  - Official instance: [mediathekviewweb.de](https://mediathekviewweb.de)
-
-- [NoPaste](https://github.com/bokub/nopaste): NoPaste is an open-source website similar to Pastebin where you can store any piece of code, and generate links for easy sharing
-
 - [PrivateBin](https://github.com/PrivateBin/PrivateBin): Zero knowledge encrypted paste-bin. A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES
-
-- [vaultwarden](https://github.com/dani-garcia/vaultwarden): Password manager. Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 
 - [snapdrop](https://github.com/RobinLinus/snapdrop): Similar to Apple's Airdrop but in your browser. A Progressive Web App for local file sharing
 
@@ -430,16 +272,12 @@ My choice of organization might be a bit different as well.
 
 - [etherpad-lite](https://github.com/ether/etherpad-lite): Collaborative rich text editor. A modern really-real-time collaborative document editor
 
-- [gitea](https://github.com/go-gitea/gitea): Lightweight git server. Git with a cup of tea, painless self-hosted git service
-
 - [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox): Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more
 
 - [Wikiless](https://github.com/Metastem/wikiless): A free open source alternative Wikipedia front-end focused on privacy
   - Official instance: https://wikiless.org/
   - Public instances: https://github.com/Metastem/wikiless
 
-- [Librarian](https://codeberg.org/librarian/librarian): Alternative frontend for LBRY / Odysee.com
-  - Public instances: https://codeberg.org/librarian/librarian#instances
 
 ## Redirection
 
@@ -460,10 +298,6 @@ My choice of organization might be a bit different as well.
   - [Chrome Extension: Redirector](https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd)
 
 ## Related projects
-
-- [uBlock Origin](https://github.com/gorhill/uBlock): An efficient blocker for Chromium and Firefox. Fast and lean
-  - [Firefox Add-On: uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin)
-  - [Chrome Extension: uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 
 - [StreetComplete](https://github.com/streetcomplete/StreetComplete): Easy to use OpenStreetMap editor for Android
 
